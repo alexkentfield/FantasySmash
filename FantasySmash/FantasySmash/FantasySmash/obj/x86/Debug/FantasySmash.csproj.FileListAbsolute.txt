@@ -1,0 +1,7 @@
+C:\Users\aicaoc\Desktop\FantasySmash\FantasySmash\FantasySmash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aicaoc\Desktop\FantasySmash\FantasySmash\FantasySmash\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\aicaoc\Desktop\FantasySmash\FantasySmash\FantasySmash\bin\x86\Debug\FantasySmash.exe
+C:\Users\aicaoc\Desktop\FantasySmash\FantasySmash\FantasySmash\bin\x86\Debug\FantasySmash.pdb
+C:\Users\aicaoc\Desktop\FantasySmash\FantasySmash\FantasySmash\obj\x86\Debug\FantasySmash.exe
+C:\Users\aicaoc\Desktop\FantasySmash\FantasySmash\FantasySmash\obj\x86\Debug\FantasySmash.pdb
+C:\Users\aicaoc\Desktop\FantasySmash\FantasySmash\FantasySmash\bin\x86\Debug\Content\characters.xnb
